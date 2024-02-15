@@ -1,10 +1,10 @@
 ## Installation
 
-Make sure you have Node.JS is installed.
-npm install express@4
-npm install socket.io
-npm install sqlite sqlite3
-npm install @socket.io/cluster-adapter // scaling horizontally
+- Make sure you have Node.JS is installed.
+- npm install express@4
+- npm install socket.io
+- npm install sqlite sqlite3
+- npm install @socket.io/cluster-adapter // scaling horizontally
 
 To Run the application
 
